@@ -1,5 +1,4 @@
 export default printWords
-
-function printWords (word){
+function printWords(word) {
   return word
 }
